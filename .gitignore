@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Database Sqlite
+src/database/database.sqlite
+src/database/database.test.sqlite
